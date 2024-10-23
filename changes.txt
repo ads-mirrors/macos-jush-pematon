@@ -1,3 +1,6 @@
+JUSH 2.1.0 (2024-10-23):
+- Add support for dark mode
+
 JUSH 2.0.3 (2024-10-23):
 - Update HTTPS links to external pages
 - Add support for IME composition
