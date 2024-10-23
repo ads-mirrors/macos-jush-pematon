@@ -1,3 +1,9 @@
+JUSH 2.0.3 (2024-10-23):
+- Update HTTPS links to external pages
+- Add support for IME composition
+- PostgreSQL: Fix dollar-quoted strings
+- MySQL: Fix doc links
+
 JUSH 2.0.0:
 Add highlighted textarea
 Allow using tags in highlighted source
