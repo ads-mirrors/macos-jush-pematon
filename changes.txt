@@ -1,3 +1,6 @@
+JUSH 2.1.2 (2025-03-18):
+- Separate colors for dark mode
+
 JUSH 2.1.1 (2025-03-10):
 - Lowercase sqlstatus link in MariaDB
 
