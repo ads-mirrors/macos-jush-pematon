@@ -1,0 +1,12 @@
+.jush {
+    --text-color: #ccc;
+    --keyword-color: #acf;
+    --identifier-color: #f88;
+    --string-color: #e6e;
+    --number-color: #0c0;
+    --attribute-color: #3cc;
+    --js-bg-color: #036;
+    --css-bg-color: #404000;
+    --php-bg-color: #520;
+    --php-sql-bg-color: #404000;
+}
