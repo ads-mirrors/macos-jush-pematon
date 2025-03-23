@@ -1,3 +1,6 @@
+JUSH 2.1.3 (2025-03-23):
+- Fix attribute color in JSON
+
 JUSH 2.1.2 (2025-03-18):
 - Separate colors for dark mode
 
